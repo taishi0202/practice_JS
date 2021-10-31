@@ -1,2 +1,2 @@
-# practice_JS
+# sandbox-sample
 Created with CodeSandbox
